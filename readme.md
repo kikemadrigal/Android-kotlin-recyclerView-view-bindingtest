@@ -1,4 +1,4 @@
-# Android ecyclerview & view binding test with kotlin
+# Android recyclerview & view binding test with kotlin
 
-<img src=assets/RecyclerView-test.jpg width=400px />
+<img src=assets/1.png width=400px />
 
